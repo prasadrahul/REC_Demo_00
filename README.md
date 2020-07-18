@@ -5,7 +5,7 @@ Basic Login Page Demo
 python-pip
 Flask
 
-#Extras
+# Extras
 apt-get install python-pip
 pip install Flask
 pip install -r requirements.txt
