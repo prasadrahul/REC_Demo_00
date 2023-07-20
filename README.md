@@ -5,7 +5,7 @@ Basic Login Page Demo
 python-pip <br />
 Flask <br />
 
-# Extras
+# Extras for reference
 
 https://labs.play-with-docker.com/ <br />
 
